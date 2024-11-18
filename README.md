@@ -1,5 +1,5 @@
 # Image-Denoiser
-This is a Project I made as a final week submission for the CSOC camp conducted by my university IIT BHU. In this project I leverage the concept of Autoencoders(took motivation) in order to denoise images of UNCLEAR TEXT PHOTOS. The notebook attach contains three models all of which made using the Sequential API of tensorflow keras. 
+This is a Project I made as a final week submission for the CSOC camp conducted by my university IIT-Varanasi. In this project I leverage the concept of Autoencoders(took motivation) in order to denoise images document PHOTOS. The notebook attach contains three models all of which made using the Sequential API of tensorflow keras. 
 
 ### Link to Project Drive - [Drive](https://drive.google.com/drive/u/3/folders/1zFM-DcUZPHcVVuA-JoL29p20Pu3nHHFG)
 This Drive contains the notebook and the presentation report for the project.
